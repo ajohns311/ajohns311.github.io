@@ -3,6 +3,6 @@ $(document).ready(function () {
     window.location.href = "http://18.222.145.189";
   })
   $('#bicycleproject').click(function() {
-    window.location.href = "http://www.msn.com";
+    window.location.href = "http://18.222.103.84";
   })
 })
